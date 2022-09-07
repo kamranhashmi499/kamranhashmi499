@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamranhashmi499
+- 👋 Hi, I’m Kamran Hashmi - Software Engineer by degree with 5 plus years of Experience in Web Development.
 - 👀 I’m interested in providing Portfolio Websites, Ecommerce Stores, ERP Solutions on various platforms using different techstacks which includes (Wordpress, Shopify, Hubspot, Clickfunnels - Php, Liquid, Html, Css, Scss, JS, Jquery, Ajax, Canvas - Codeigniter, Laravel - View.js, .Net framework etc). I am also intersted in boosting sales and businesses pressence to online world including digital and social media platforms.
 - 🌱 I’m currently learning Shopify App Development using Node, React, Polaris, GraphQL. After working more than 3 years on Shopify. I think there's yet alot to offer on Shopify App marketplace.
 - 💞️ I’m looking to collaborate on Ideas for Shopify Apps - Shopify Themes, Wordpress Plugins - Themes. If you have anything that is interesting and have scope in selling. I'll be more than happy to listen and collab.  
